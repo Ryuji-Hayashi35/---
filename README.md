@@ -37,3 +37,6 @@ README〜ER図作成:9/12〜9/21〆切
 メイン機能実装:9/21〜10/18〆切
 β版をRUNTEQ内リリース(MVP):10/18〜10/23〆切
 本番リリース: 10/23〜
+
+figma
+https://www.figma.com/file/SahBed3Cc4DYtVbQjHhsKC/todoapp?node-id=0%3A1
